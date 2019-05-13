@@ -1,0 +1,7 @@
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\obj\Debug\Odev2.csprojAssemblyReference.cache
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\obj\Debug\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\EnverBerkay\SkyDrive\Desktop\Odev2\Odev2\obj\Debug\Odev2.pdb
